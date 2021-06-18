@@ -19,9 +19,9 @@
 #
 
 pulp_soc:
-  commit: v2.0.1
+  commit: add_test_ip 
   server: https://github.com
-  group:  pulp-platform
+  group:  Risto97
 
 tbtools:
   commit: v0.1
